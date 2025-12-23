@@ -30,7 +30,7 @@ The workflow is implemented in a Jupyter Notebook (`.ipynb`) and focuses on a cl
 
 ---
 
-## Project Structure (recommended)
+## Project Structure 
 fake_currency_project/
 ├─ sahte_para.ipynb
 ├─ dataset/
@@ -69,7 +69,7 @@ Klasik bir makine öğrenmesi hattı kullanarak banknot görüntülerini **Gerç
 
 ---
 
-## Proje Yapısı (önerilen)
+## Proje Yapısı 
 
 fake_currency_project/
 ├─ sahte_para.ipynb
